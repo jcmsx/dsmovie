@@ -1,0 +1,24 @@
+postgres://
+
+fidppncgvzjuwg                                                           # username
+:
+f22d59ede3a84e10f01c62cc5e648c27504ed899d38eb831c043d822f1f1e79c         # password
+@
+ec2-54-83-82-187.compute-1.amazonaws.com                                # hostname / address
+:
+5432                                                                     # port
+/
+db0kfkstasrsk4                                                           # maintenance
+
+
+postgres://
+
+fidppncgvzjuwg
+:
+f22d59ede3a84e10f01c62cc5e648c27504ed899d38eb831c043d822f1f1e79c
+@
+ec2-54-83-82-187.compute-1.amazonaws.com
+:
+5432
+/
+db0kfkstasrsk4
